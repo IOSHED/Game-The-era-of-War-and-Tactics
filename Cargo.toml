@@ -1,0 +1,8 @@
+
+[workspace]
+resolver = "2"
+members = [
+    "core-game-era-war-and-tactics/core-domain",
+    "core-game-era-war-and-tactics/core-resources",
+    "game-era-war-and-tactics",
+]
