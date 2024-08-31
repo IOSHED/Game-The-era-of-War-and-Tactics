@@ -1,0 +1,8 @@
+[package]
+name = "game-era-war-and-tactics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+core-domain = { path = "../core-game-era-war-and-tactics/core-domain/" }
+core-reources = { path = "../core-game-era-war-and-tactics/core-resources/" }
