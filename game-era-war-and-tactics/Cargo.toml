@@ -6,4 +6,5 @@ edition = "2021"
 [dependencies]
 core-domain = { path = "../core-game-era-war-and-tactics/core-domain/" }
 core-resources = { path = "../core-game-era-war-and-tactics/core-resources/" }
+tokio = { version = "1", features = ["full"] }
 macroquad = "0.4.13"
